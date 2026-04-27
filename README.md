@@ -44,3 +44,9 @@ A simple implementation of the classic Snake game using Python’s built-in `tur
 ```bash
 git clone https://github.com/your-username/snake-game.git
 cd snake-game
+```
+
+### 2. Run the program
+```bash
+python snakeGame.py
+
